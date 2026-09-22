@@ -6,3 +6,5 @@ const logResult=log(2)
 
 console.log("Log answer: ",logResult);
 console.log("Addition:",result);
+console.log(sub(2, 3));
+

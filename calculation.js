@@ -2,9 +2,13 @@ function log(m) {
     return Math.log(m);
 }
 
-module.exports = log;
-
 function addition(a,b){
     return a+b;
 }
+
+function sub(m,n){
+    return m-n;
+}
+module.exports = sub;
+module.exports = log;
 module.exports=addition;

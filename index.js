@@ -1,2 +1,2 @@
 const log = require("./calculation");
-console.log(log(2, 3));
+console.log(log(2));
